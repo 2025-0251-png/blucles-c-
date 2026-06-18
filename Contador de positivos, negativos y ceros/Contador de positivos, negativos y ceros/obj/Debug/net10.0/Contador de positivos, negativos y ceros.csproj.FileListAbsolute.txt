@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\ejercicios\Contador de positivos, negativos y ceros\Contador de positivos, negativos y ceros\bin\Debug\net10.0\Contador de positivos, negativos y ceros.exe
+C:\Users\User\Desktop\ejercicios\Contador de positivos, negativos y ceros\Contador de positivos, negativos y ceros\bin\Debug\net10.0\Contador de positivos, negativos y ceros.deps.json
+C:\Users\User\Desktop\ejercicios\Contador de positivos, negativos y ceros\Contador de positivos, negativos y ceros\bin\Debug\net10.0\Contador de positivos, negativos y ceros.runtimeconfig.json
+C:\Users\User\Desktop\ejercicios\Contador de positivos, negativos y ceros\Contador de positivos, negativos y ceros\bin\Debug\net10.0\Contador de positivos, negativos y ceros.dll
+C:\Users\User\Desktop\ejercicios\Contador de positivos, negativos y ceros\Contador de positivos, negativos y ceros\bin\Debug\net10.0\Contador de positivos, negativos y ceros.pdb
+C:\Users\User\Desktop\ejercicios\Contador de positivos, negativos y ceros\Contador de positivos, negativos y ceros\obj\Debug\net10.0\Contador de positivos, negativos y ceros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ejercicios\Contador de positivos, negativos y ceros\Contador de positivos, negativos y ceros\obj\Debug\net10.0\Contador de positivos, negativos y ceros.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ejercicios\Contador de positivos, negativos y ceros\Contador de positivos, negativos y ceros\obj\Debug\net10.0\Contador de positivos, negativos y ceros.AssemblyInfo.cs
+C:\Users\User\Desktop\ejercicios\Contador de positivos, negativos y ceros\Contador de positivos, negativos y ceros\obj\Debug\net10.0\Contador de positivos, negativos y ceros.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ejercicios\Contador de positivos, negativos y ceros\Contador de positivos, negativos y ceros\obj\Debug\net10.0\Contador de positivos, negativos y ceros.dll
+C:\Users\User\Desktop\ejercicios\Contador de positivos, negativos y ceros\Contador de positivos, negativos y ceros\obj\Debug\net10.0\refint\Contador de positivos, negativos y ceros.dll
+C:\Users\User\Desktop\ejercicios\Contador de positivos, negativos y ceros\Contador de positivos, negativos y ceros\obj\Debug\net10.0\Contador de positivos, negativos y ceros.pdb
+C:\Users\User\Desktop\ejercicios\Contador de positivos, negativos y ceros\Contador de positivos, negativos y ceros\obj\Debug\net10.0\Contador de positivos, negativos y ceros.genruntimeconfig.cache
+C:\Users\User\Desktop\ejercicios\Contador de positivos, negativos y ceros\Contador de positivos, negativos y ceros\obj\Debug\net10.0\ref\Contador de positivos, negativos y ceros.dll

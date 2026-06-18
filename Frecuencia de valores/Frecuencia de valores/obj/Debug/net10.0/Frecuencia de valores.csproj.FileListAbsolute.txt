@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\ejercicios\Frecuencia de valores\Frecuencia de valores\obj\Debug\net10.0\Frecuencia de valores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ejercicios\Frecuencia de valores\Frecuencia de valores\obj\Debug\net10.0\Frecuencia de valores.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ejercicios\Frecuencia de valores\Frecuencia de valores\obj\Debug\net10.0\Frecuencia de valores.AssemblyInfo.cs
+C:\Users\User\Desktop\ejercicios\Frecuencia de valores\Frecuencia de valores\obj\Debug\net10.0\Frecuencia de valores.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ejercicios\Frecuencia de valores\Frecuencia de valores\bin\Debug\net10.0\Frecuencia de valores.exe
+C:\Users\User\Desktop\ejercicios\Frecuencia de valores\Frecuencia de valores\bin\Debug\net10.0\Frecuencia de valores.deps.json
+C:\Users\User\Desktop\ejercicios\Frecuencia de valores\Frecuencia de valores\bin\Debug\net10.0\Frecuencia de valores.runtimeconfig.json
+C:\Users\User\Desktop\ejercicios\Frecuencia de valores\Frecuencia de valores\bin\Debug\net10.0\Frecuencia de valores.dll
+C:\Users\User\Desktop\ejercicios\Frecuencia de valores\Frecuencia de valores\bin\Debug\net10.0\Frecuencia de valores.pdb
+C:\Users\User\Desktop\ejercicios\Frecuencia de valores\Frecuencia de valores\obj\Debug\net10.0\Frecuencia de valores.dll
+C:\Users\User\Desktop\ejercicios\Frecuencia de valores\Frecuencia de valores\obj\Debug\net10.0\refint\Frecuencia de valores.dll
+C:\Users\User\Desktop\ejercicios\Frecuencia de valores\Frecuencia de valores\obj\Debug\net10.0\Frecuencia de valores.pdb
+C:\Users\User\Desktop\ejercicios\Frecuencia de valores\Frecuencia de valores\obj\Debug\net10.0\Frecuencia de valores.genruntimeconfig.cache
+C:\Users\User\Desktop\ejercicios\Frecuencia de valores\Frecuencia de valores\obj\Debug\net10.0\ref\Frecuencia de valores.dll

@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\ejercicios\Búsqueda en un arreglo\Búsqueda en un arreglo\bin\Debug\net10.0\Búsqueda en un arreglo.exe
+C:\Users\User\Desktop\ejercicios\Búsqueda en un arreglo\Búsqueda en un arreglo\bin\Debug\net10.0\Búsqueda en un arreglo.deps.json
+C:\Users\User\Desktop\ejercicios\Búsqueda en un arreglo\Búsqueda en un arreglo\bin\Debug\net10.0\Búsqueda en un arreglo.runtimeconfig.json
+C:\Users\User\Desktop\ejercicios\Búsqueda en un arreglo\Búsqueda en un arreglo\bin\Debug\net10.0\Búsqueda en un arreglo.dll
+C:\Users\User\Desktop\ejercicios\Búsqueda en un arreglo\Búsqueda en un arreglo\bin\Debug\net10.0\Búsqueda en un arreglo.pdb
+C:\Users\User\Desktop\ejercicios\Búsqueda en un arreglo\Búsqueda en un arreglo\obj\Debug\net10.0\Búsqueda en un arreglo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ejercicios\Búsqueda en un arreglo\Búsqueda en un arreglo\obj\Debug\net10.0\Búsqueda en un arreglo.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ejercicios\Búsqueda en un arreglo\Búsqueda en un arreglo\obj\Debug\net10.0\Búsqueda en un arreglo.AssemblyInfo.cs
+C:\Users\User\Desktop\ejercicios\Búsqueda en un arreglo\Búsqueda en un arreglo\obj\Debug\net10.0\Búsqueda en un arreglo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ejercicios\Búsqueda en un arreglo\Búsqueda en un arreglo\obj\Debug\net10.0\Búsqueda en un arreglo.dll
+C:\Users\User\Desktop\ejercicios\Búsqueda en un arreglo\Búsqueda en un arreglo\obj\Debug\net10.0\refint\Búsqueda en un arreglo.dll
+C:\Users\User\Desktop\ejercicios\Búsqueda en un arreglo\Búsqueda en un arreglo\obj\Debug\net10.0\Búsqueda en un arreglo.pdb
+C:\Users\User\Desktop\ejercicios\Búsqueda en un arreglo\Búsqueda en un arreglo\obj\Debug\net10.0\Búsqueda en un arreglo.genruntimeconfig.cache
+C:\Users\User\Desktop\ejercicios\Búsqueda en un arreglo\Búsqueda en un arreglo\obj\Debug\net10.0\ref\Búsqueda en un arreglo.dll
