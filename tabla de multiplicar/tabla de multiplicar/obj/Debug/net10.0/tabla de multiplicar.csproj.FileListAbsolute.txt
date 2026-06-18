@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\ejercicios\tabla de multiplicar\tabla de multiplicar\bin\Debug\net10.0\tabla de multiplicar.exe
+C:\Users\User\Desktop\ejercicios\tabla de multiplicar\tabla de multiplicar\bin\Debug\net10.0\tabla de multiplicar.deps.json
+C:\Users\User\Desktop\ejercicios\tabla de multiplicar\tabla de multiplicar\bin\Debug\net10.0\tabla de multiplicar.runtimeconfig.json
+C:\Users\User\Desktop\ejercicios\tabla de multiplicar\tabla de multiplicar\bin\Debug\net10.0\tabla de multiplicar.dll
+C:\Users\User\Desktop\ejercicios\tabla de multiplicar\tabla de multiplicar\bin\Debug\net10.0\tabla de multiplicar.pdb
+C:\Users\User\Desktop\ejercicios\tabla de multiplicar\tabla de multiplicar\obj\Debug\net10.0\tabla de multiplicar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ejercicios\tabla de multiplicar\tabla de multiplicar\obj\Debug\net10.0\tabla de multiplicar.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ejercicios\tabla de multiplicar\tabla de multiplicar\obj\Debug\net10.0\tabla de multiplicar.AssemblyInfo.cs
+C:\Users\User\Desktop\ejercicios\tabla de multiplicar\tabla de multiplicar\obj\Debug\net10.0\tabla de multiplicar.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ejercicios\tabla de multiplicar\tabla de multiplicar\obj\Debug\net10.0\tabla de multiplicar.dll
+C:\Users\User\Desktop\ejercicios\tabla de multiplicar\tabla de multiplicar\obj\Debug\net10.0\refint\tabla de multiplicar.dll
+C:\Users\User\Desktop\ejercicios\tabla de multiplicar\tabla de multiplicar\obj\Debug\net10.0\tabla de multiplicar.pdb
+C:\Users\User\Desktop\ejercicios\tabla de multiplicar\tabla de multiplicar\obj\Debug\net10.0\tabla de multiplicar.genruntimeconfig.cache
+C:\Users\User\Desktop\ejercicios\tabla de multiplicar\tabla de multiplicar\obj\Debug\net10.0\ref\tabla de multiplicar.dll

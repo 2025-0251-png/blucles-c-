@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\ejercicios\suma de numeros naturales\suma de numeros naturales\bin\Debug\net10.0\suma de numeros naturales.exe
+C:\Users\User\Desktop\ejercicios\suma de numeros naturales\suma de numeros naturales\bin\Debug\net10.0\suma de numeros naturales.deps.json
+C:\Users\User\Desktop\ejercicios\suma de numeros naturales\suma de numeros naturales\bin\Debug\net10.0\suma de numeros naturales.runtimeconfig.json
+C:\Users\User\Desktop\ejercicios\suma de numeros naturales\suma de numeros naturales\bin\Debug\net10.0\suma de numeros naturales.dll
+C:\Users\User\Desktop\ejercicios\suma de numeros naturales\suma de numeros naturales\bin\Debug\net10.0\suma de numeros naturales.pdb
+C:\Users\User\Desktop\ejercicios\suma de numeros naturales\suma de numeros naturales\obj\Debug\net10.0\suma de numeros naturales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ejercicios\suma de numeros naturales\suma de numeros naturales\obj\Debug\net10.0\suma de numeros naturales.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ejercicios\suma de numeros naturales\suma de numeros naturales\obj\Debug\net10.0\suma de numeros naturales.AssemblyInfo.cs
+C:\Users\User\Desktop\ejercicios\suma de numeros naturales\suma de numeros naturales\obj\Debug\net10.0\suma de numeros naturales.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ejercicios\suma de numeros naturales\suma de numeros naturales\obj\Debug\net10.0\suma de numeros naturales.dll
+C:\Users\User\Desktop\ejercicios\suma de numeros naturales\suma de numeros naturales\obj\Debug\net10.0\refint\suma de numeros naturales.dll
+C:\Users\User\Desktop\ejercicios\suma de numeros naturales\suma de numeros naturales\obj\Debug\net10.0\suma de numeros naturales.pdb
+C:\Users\User\Desktop\ejercicios\suma de numeros naturales\suma de numeros naturales\obj\Debug\net10.0\suma de numeros naturales.genruntimeconfig.cache
+C:\Users\User\Desktop\ejercicios\suma de numeros naturales\suma de numeros naturales\obj\Debug\net10.0\ref\suma de numeros naturales.dll

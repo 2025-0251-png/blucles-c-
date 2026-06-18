@@ -1,0 +1,28 @@
+C:\Users\User\Desktop\ejercicios\ejercicios for\ejercicios for\bin\Debug\net10.0\ejercicios for.exe
+C:\Users\User\Desktop\ejercicios\ejercicios for\ejercicios for\bin\Debug\net10.0\ejercicios for.deps.json
+C:\Users\User\Desktop\ejercicios\ejercicios for\ejercicios for\bin\Debug\net10.0\ejercicios for.runtimeconfig.json
+C:\Users\User\Desktop\ejercicios\ejercicios for\ejercicios for\bin\Debug\net10.0\ejercicios for.dll
+C:\Users\User\Desktop\ejercicios\ejercicios for\ejercicios for\bin\Debug\net10.0\ejercicios for.pdb
+C:\Users\User\Desktop\ejercicios\ejercicios for\ejercicios for\obj\Debug\net10.0\ejercicios for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ejercicios\ejercicios for\ejercicios for\obj\Debug\net10.0\ejercicios for.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ejercicios\ejercicios for\ejercicios for\obj\Debug\net10.0\ejercicios for.AssemblyInfo.cs
+C:\Users\User\Desktop\ejercicios\ejercicios for\ejercicios for\obj\Debug\net10.0\ejercicios for.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ejercicios\ejercicios for\ejercicios for\obj\Debug\net10.0\ejercicios for.dll
+C:\Users\User\Desktop\ejercicios\ejercicios for\ejercicios for\obj\Debug\net10.0\refint\ejercicios for.dll
+C:\Users\User\Desktop\ejercicios\ejercicios for\ejercicios for\obj\Debug\net10.0\ejercicios for.pdb
+C:\Users\User\Desktop\ejercicios\ejercicios for\ejercicios for\obj\Debug\net10.0\ejercicios for.genruntimeconfig.cache
+C:\Users\User\Desktop\ejercicios\ejercicios for\ejercicios for\obj\Debug\net10.0\ref\ejercicios for.dll
+C:\Users\User\Desktop\ejercicios\numero 1 al 10\ejercicios for\bin\Debug\net10.0\ejercicios for.exe
+C:\Users\User\Desktop\ejercicios\numero 1 al 10\ejercicios for\bin\Debug\net10.0\ejercicios for.deps.json
+C:\Users\User\Desktop\ejercicios\numero 1 al 10\ejercicios for\bin\Debug\net10.0\ejercicios for.runtimeconfig.json
+C:\Users\User\Desktop\ejercicios\numero 1 al 10\ejercicios for\bin\Debug\net10.0\ejercicios for.dll
+C:\Users\User\Desktop\ejercicios\numero 1 al 10\ejercicios for\bin\Debug\net10.0\ejercicios for.pdb
+C:\Users\User\Desktop\ejercicios\numero 1 al 10\ejercicios for\obj\Debug\net10.0\ejercicios for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ejercicios\numero 1 al 10\ejercicios for\obj\Debug\net10.0\ejercicios for.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ejercicios\numero 1 al 10\ejercicios for\obj\Debug\net10.0\ejercicios for.AssemblyInfo.cs
+C:\Users\User\Desktop\ejercicios\numero 1 al 10\ejercicios for\obj\Debug\net10.0\ejercicios for.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ejercicios\numero 1 al 10\ejercicios for\obj\Debug\net10.0\ejercicios for.dll
+C:\Users\User\Desktop\ejercicios\numero 1 al 10\ejercicios for\obj\Debug\net10.0\refint\ejercicios for.dll
+C:\Users\User\Desktop\ejercicios\numero 1 al 10\ejercicios for\obj\Debug\net10.0\ejercicios for.pdb
+C:\Users\User\Desktop\ejercicios\numero 1 al 10\ejercicios for\obj\Debug\net10.0\ejercicios for.genruntimeconfig.cache
+C:\Users\User\Desktop\ejercicios\numero 1 al 10\ejercicios for\obj\Debug\net10.0\ref\ejercicios for.dll
