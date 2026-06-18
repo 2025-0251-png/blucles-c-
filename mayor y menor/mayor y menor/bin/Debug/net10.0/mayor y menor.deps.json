@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "mayor y menor/1.0.0": {
+        "runtime": {
+          "mayor y menor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mayor y menor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

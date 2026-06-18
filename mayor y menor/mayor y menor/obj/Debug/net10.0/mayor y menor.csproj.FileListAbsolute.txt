@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\ejercicios\mayor y menor\mayor y menor\obj\Debug\net10.0\mayor y menor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ejercicios\mayor y menor\mayor y menor\obj\Debug\net10.0\mayor y menor.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ejercicios\mayor y menor\mayor y menor\obj\Debug\net10.0\mayor y menor.AssemblyInfo.cs
+C:\Users\User\Desktop\ejercicios\mayor y menor\mayor y menor\obj\Debug\net10.0\mayor y menor.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ejercicios\mayor y menor\mayor y menor\bin\Debug\net10.0\mayor y menor.exe
+C:\Users\User\Desktop\ejercicios\mayor y menor\mayor y menor\bin\Debug\net10.0\mayor y menor.deps.json
+C:\Users\User\Desktop\ejercicios\mayor y menor\mayor y menor\bin\Debug\net10.0\mayor y menor.runtimeconfig.json
+C:\Users\User\Desktop\ejercicios\mayor y menor\mayor y menor\bin\Debug\net10.0\mayor y menor.dll
+C:\Users\User\Desktop\ejercicios\mayor y menor\mayor y menor\bin\Debug\net10.0\mayor y menor.pdb
+C:\Users\User\Desktop\ejercicios\mayor y menor\mayor y menor\obj\Debug\net10.0\mayor y menor.dll
+C:\Users\User\Desktop\ejercicios\mayor y menor\mayor y menor\obj\Debug\net10.0\refint\mayor y menor.dll
+C:\Users\User\Desktop\ejercicios\mayor y menor\mayor y menor\obj\Debug\net10.0\mayor y menor.pdb
+C:\Users\User\Desktop\ejercicios\mayor y menor\mayor y menor\obj\Debug\net10.0\mayor y menor.genruntimeconfig.cache
+C:\Users\User\Desktop\ejercicios\mayor y menor\mayor y menor\obj\Debug\net10.0\ref\mayor y menor.dll

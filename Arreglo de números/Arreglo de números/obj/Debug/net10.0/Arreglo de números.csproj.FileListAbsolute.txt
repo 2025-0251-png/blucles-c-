@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\ejercicios\Arreglo de números\Arreglo de números\bin\Debug\net10.0\Arreglo de números.exe
+C:\Users\User\Desktop\ejercicios\Arreglo de números\Arreglo de números\bin\Debug\net10.0\Arreglo de números.deps.json
+C:\Users\User\Desktop\ejercicios\Arreglo de números\Arreglo de números\bin\Debug\net10.0\Arreglo de números.runtimeconfig.json
+C:\Users\User\Desktop\ejercicios\Arreglo de números\Arreglo de números\bin\Debug\net10.0\Arreglo de números.dll
+C:\Users\User\Desktop\ejercicios\Arreglo de números\Arreglo de números\bin\Debug\net10.0\Arreglo de números.pdb
+C:\Users\User\Desktop\ejercicios\Arreglo de números\Arreglo de números\obj\Debug\net10.0\Arreglo de números.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ejercicios\Arreglo de números\Arreglo de números\obj\Debug\net10.0\Arreglo de números.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ejercicios\Arreglo de números\Arreglo de números\obj\Debug\net10.0\Arreglo de números.AssemblyInfo.cs
+C:\Users\User\Desktop\ejercicios\Arreglo de números\Arreglo de números\obj\Debug\net10.0\Arreglo de números.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ejercicios\Arreglo de números\Arreglo de números\obj\Debug\net10.0\Arreglo de números.dll
+C:\Users\User\Desktop\ejercicios\Arreglo de números\Arreglo de números\obj\Debug\net10.0\refint\Arreglo de números.dll
+C:\Users\User\Desktop\ejercicios\Arreglo de números\Arreglo de números\obj\Debug\net10.0\Arreglo de números.pdb
+C:\Users\User\Desktop\ejercicios\Arreglo de números\Arreglo de números\obj\Debug\net10.0\Arreglo de números.genruntimeconfig.cache
+C:\Users\User\Desktop\ejercicios\Arreglo de números\Arreglo de números\obj\Debug\net10.0\ref\Arreglo de números.dll

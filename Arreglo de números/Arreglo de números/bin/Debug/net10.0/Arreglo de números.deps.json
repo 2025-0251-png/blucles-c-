@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Arreglo de números/1.0.0": {
+        "runtime": {
+          "Arreglo de números.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Arreglo de números/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

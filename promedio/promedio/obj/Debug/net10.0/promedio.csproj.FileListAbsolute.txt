@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\ejercicios\promedio\promedio\bin\Debug\net10.0\promedio.exe
+C:\Users\User\Desktop\ejercicios\promedio\promedio\bin\Debug\net10.0\promedio.deps.json
+C:\Users\User\Desktop\ejercicios\promedio\promedio\bin\Debug\net10.0\promedio.runtimeconfig.json
+C:\Users\User\Desktop\ejercicios\promedio\promedio\bin\Debug\net10.0\promedio.dll
+C:\Users\User\Desktop\ejercicios\promedio\promedio\bin\Debug\net10.0\promedio.pdb
+C:\Users\User\Desktop\ejercicios\promedio\promedio\obj\Debug\net10.0\promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ejercicios\promedio\promedio\obj\Debug\net10.0\promedio.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ejercicios\promedio\promedio\obj\Debug\net10.0\promedio.AssemblyInfo.cs
+C:\Users\User\Desktop\ejercicios\promedio\promedio\obj\Debug\net10.0\promedio.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ejercicios\promedio\promedio\obj\Debug\net10.0\promedio.dll
+C:\Users\User\Desktop\ejercicios\promedio\promedio\obj\Debug\net10.0\refint\promedio.dll
+C:\Users\User\Desktop\ejercicios\promedio\promedio\obj\Debug\net10.0\promedio.pdb
+C:\Users\User\Desktop\ejercicios\promedio\promedio\obj\Debug\net10.0\promedio.genruntimeconfig.cache
+C:\Users\User\Desktop\ejercicios\promedio\promedio\obj\Debug\net10.0\ref\promedio.dll
